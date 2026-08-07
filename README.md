@@ -2,6 +2,12 @@
 
 An interactive business intelligence dashboard built with **Python, Pandas, Plotly, and Streamlit** to analyze supermarket sales data and generate useful business insights.
 
+## 🚀 Live Demo
+
+Try the deployed dashboard here:
+
+https://supermarket-sales-analytics-kepjkttwgncgzappvb9yjyf.streamlit.app/
+
 ## 📊 Project Overview
 
 This dashboard helps businesses understand their sales performance through interactive charts, KPIs, filters, and automated insights.
